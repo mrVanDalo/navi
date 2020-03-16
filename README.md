@@ -15,6 +15,8 @@ An interactive cheatsheet tool for the command-line.
 
 It uses [fzf](https://github.com/junegunn/fzf) under the hood and it can be either used as a command or as a shell widget (*à la* Ctrl-R).
 
+afdasfsadf
+
 Table of contents
 -----------------
 
